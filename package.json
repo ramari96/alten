@@ -1,0 +1,30 @@
+{
+  "name": "alten",
+  "version": "1.0.0",
+  "description": "This framework was constructed for the technical review at ALTEN. Please find below all necessary details to install dependencies  and run the tests.",
+  "main": "babel.config.js",
+  "dependencies": {
+    "allure-commandline": "^2.17.2",
+    "chai": "^4.3.6",
+    "chromedriver": "^103.0.0",
+    "fs-extra": "^10.1.0",
+    "multiple-cucumber-html-reporter": "^1.21.4",
+    "wdio-chromedriver-service": "^7.3.2",
+    "wdio-cucumberjs-json-reporter": "^4.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramari96/alten.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramari96/alten/issues"
+  },
+  "homepage": "https://github.com/ramari96/alten#readme"
+}
